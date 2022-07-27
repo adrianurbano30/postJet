@@ -218,9 +218,7 @@
                 x-show="tab==='fotos'">
                 <p>Tus fotos</p>
                 <div class="text-justify p-2">
-                    Lorem ipsum dolor de tus putas fotos sit amet consectetur adipisicing elit. Beatae, eius deserunt officia natus quaerat magni tempore obcaecati voluptatum in explicabo labore fugiat perspiciatis quia, voluptates, tenetur necessitatibus non suscipit perferendis?
-                    Numquam similique doloribus, culpa nam odit totam vel nostrum quis inventore? Minima eius cupiditate deserunt porro aperiam temporibus quaerat laborum similique facere? Quaerat tempora minima, voluptatem velit quis sed sint.
-                    Ex atque eaque porro at, cumque eveniet sequi quaerat fugit impedit deserunt nam et iusto odio voluptatum, voluptate quia maxime fugiat fuga unde dolores possimus! Fugit necessitatibus sunt eaque exercitationem.
+                    AQUI ESTAN LAS FOTOS U ALBUMS.
                 </div>
             </div>
             {{--END TAB FOTOS--}}
