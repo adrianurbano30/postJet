@@ -2424,7 +2424,7 @@
 
         <div class="flex mt-6">
 
-          <div class="grid   sm:grid-cols-2  md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 2xl:grid-cols-1 ">
+          <!--div class="grid   sm:grid-cols-2  md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 2xl:grid-cols-1 "-->
 
             {{--SECCION IMAGENES--}}
             <div class=" md:w-4/5 lg:w-4/5  xl:w-4/5 2xl:w-4/5 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-700 m-auto">
@@ -2663,7 +2663,7 @@
                 </div>
             </div>
             {{--END SECCION COMENTARIOS LIKES --}}
-          </div>
+          <!--/div-->
 
         </div>
 
